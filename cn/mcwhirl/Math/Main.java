@@ -8,7 +8,7 @@ public class Main extends JavaPlugin
 	@Override
 	public void onEnable()
 	{
-		Bukkit.getConsoleSender().sendMessage("[¼ÆËãÆ÷] Æô¶¯");
+		Bukkit.getConsoleSender().sendMessage("[è®¡ç®—å™¨] å·²å¯åŠ¨ï¼");
 		this.getCommand("math").setExecutor(new CommandManager());
 	}
 
