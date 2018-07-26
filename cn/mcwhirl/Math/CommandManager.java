@@ -62,7 +62,6 @@ public class CommandManager implements CommandExecutor
     	    else
     	    	player.sendMessage("§cCorrect usage: /math type number1 number2");
 		}
-		// TODO 自动生成的方法存�?
 		return true;
 	}
 
